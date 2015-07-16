@@ -1,0 +1,17 @@
+body,h1,h2,p{
+    border-style:solid;
+    padding:10px;
+    margin:40px;
+}
+#diamond {
+    color:#880000;
+    background-color:blue;
+}
+#siobhan {
+    color:green;
+    background-color:orange;
+}
+#justin {
+    color:dark blue;
+    background-color:light blue;
+}
